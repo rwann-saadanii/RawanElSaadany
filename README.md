@@ -35,6 +35,9 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
+## 📫 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rawan-el-saadany-b02693218/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rwann-saadanii)
 
 ### 📊 GitHub Stats
 <p align="center">
