@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  <img src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" width="28"/> 
+ 🖥️
   Python Full Stack Web Developer
 </h1>
 
